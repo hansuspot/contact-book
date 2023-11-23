@@ -1,6 +1,6 @@
 from os import system
 
-contacts = {}  # Contacts is a global dictionary variable
+contacts = {}  
 
 def add_contact():
     global contacts
